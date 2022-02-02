@@ -11,3 +11,5 @@ const executaQuery = (query, params = '') =>{
         })
     })
 }
+
+module.exports = executaQuery;
